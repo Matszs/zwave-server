@@ -14,8 +14,8 @@
 #include <string.h>
 #include <math.h>
 
-#include "lib/zwave.h"
-#include "lib/genlist.h"
+#include "zwave.h"
+#include "genlist.h"
 
 #define MAX_CMD_SZ	128
 #define MAX_ZWAVE_NODES	256
